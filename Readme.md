@@ -1,10 +1,21 @@
 # MahrgonoMono
 
+![MahrgonoMono font samples](https://github.com/medhiwidjaja/MahrgonoMono/blob/main/Images/MahrgonoMono-Regular.png)
 
 MahrgonoMono is a coding font designed for high-resolution monitors.
 
 We now are used to coding with Retina displays, even 4K monitors. I designed MahrgonoMono for these types of monitors. I make no excuses for not making the letters fit certain pixel grids. I think we're beyond that.
 
+Currently MahrgonoMono-Regular is available, while other font weights and styles are in the works.
+
+## Download
+
+- [MahrgonoMono-Regular.otf](https://github.com/medhiwidjaja/MahrgonoMono/blob/main/fonts/MahrgonoMono-Regular.otf)
+- [MahrgonoMono-Regular.ttf](https://github.com/medhiwidjaja/MahrgonoMono/blob/main/fonts/MahrgonoMono-Regular.ttf)
+
+## Source Files
+
+The font is created using [FontForge](https://fontforge.org/) software.
 
 ## SIL OPEN FONT LICENSE
 
