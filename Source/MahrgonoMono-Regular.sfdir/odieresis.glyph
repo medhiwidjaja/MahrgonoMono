@@ -1,0 +1,94 @@
+StartChar: odieresis
+Encoding: 246 246 205
+Width: 600
+VWidth: 1034
+Flags: W
+TtInstrs:
+PUSHB_1
+ 82
+SSW
+SVTCA[x-axis]
+PUSHB_4
+ 24
+ 3
+ 9
+ 4
+CALL
+PUSHB_4
+ 24
+ 21
+ 15
+ 4
+CALL
+PUSHB_4
+ 24
+ 51
+ 27
+ 4
+CALL
+PUSHB_4
+ 24
+ 33
+ 41
+ 4
+CALL
+IUP[x]
+PUSHB_6
+ 36
+ 46
+ 2
+ 51
+ 41
+ 2
+CALL
+SVTCA[y-axis]
+NPUSHB
+ 10
+ 0
+ 6
+ 1
+ 0
+ 18
+ 1
+ 0
+ 12
+ 0
+ 0
+CALL
+PUSHB_6
+ 36
+ 1
+ 1
+ 0
+ 24
+ 2
+MIAP[rnd]
+SLOOP
+ALIGNRP
+LOOPCALL
+PUSHB_6
+ 46
+ 1
+ 1
+ 0
+ 30
+ 0
+MIAP[rnd]
+SLOOP
+ALIGNRP
+LOOPCALL
+PUSHB_6
+ 51
+ 41
+ 2
+ 30
+ 24
+ 2
+CALL
+IUP[y]
+EndTTInstrs
+LayerCount: 3
+Fore
+Refer: 230 776 N 1 0 0 1 1 -3 2
+Refer: 80 111 N 1 0 0 1 0 0 3
+EndChar

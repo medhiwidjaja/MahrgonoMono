@@ -1,0 +1,31 @@
+StartChar: E
+Encoding: 69 69 38
+Width: 600
+VWidth: 1034
+Flags: W
+AnchorPoint: "Anchor 3" 416 5 basechar 0
+AnchorPoint: "Anchor 2" 304 3 basechar 0
+AnchorPoint: "Anchor 0" 277 732 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+491 0 m 25,0,-1
+ 237 0 l 2,1,-1
+ 85 0 l 1,2,-1
+ 85 639 l 2,3,4
+ 85 657 85 657 80 662 c 24,5,6
+ 73 669 73 669 54 669 c 2,7,-1
+ 38 669 l 1,8,-1
+ 54 755 l 9,9,-1
+ 497 755 l 25,10,-1
+ 481 669 l 25,11,-1
+ 178 669 l 17,12,-1
+ 178 439 l 1,13,-1
+ 410 439 l 25,14,-1
+ 397 353 l 25,15,-1
+ 178 353 l 1,16,-1
+ 178 86 l 9,17,-1
+ 507 86 l 25,18,-1
+ 491 0 l 25,0,-1
+EndSplineSet
+EndChar

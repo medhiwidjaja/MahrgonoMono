@@ -1,0 +1,103 @@
+StartChar: Udieresis
+Encoding: 220 220 179
+Width: 600
+VWidth: 1034
+Flags: W
+TtInstrs:
+PUSHB_1
+ 82
+SSW
+SVTCA[x-axis]
+PUSHB_4
+ 24
+ 3
+ 9
+ 4
+CALL
+PUSHB_4
+ 24
+ 21
+ 15
+ 4
+CALL
+NPUSHB
+ 10
+ 0
+ 81
+ 1
+ 0
+ 45
+ 1
+ 24
+ 24
+ 44
+ 0
+CALL
+NPUSHB
+ 10
+ 0
+ 54
+ 1
+ 0
+ 75
+ 1
+ 24
+ 53
+ 74
+ 0
+CALL
+IUP[x]
+SVTCA[y-axis]
+NPUSHB
+ 10
+ 0
+ 6
+ 1
+ 0
+ 18
+ 1
+ 0
+ 12
+ 0
+ 0
+CALL
+NPUSHB
+ 16
+ 29
+ 39
+ 59
+ 69
+ 4
+ 1
+ 32
+ 36
+ 38
+ 60
+ 62
+ 66
+ 68
+ 7
+ 30
+ 3
+MIAP[rnd]
+SLOOP
+ALIGNRP
+LOOPCALL
+PUSHB_6
+ 78
+ 1
+ 1
+ 0
+ 48
+ 0
+MIAP[rnd]
+SLOOP
+ALIGNRP
+LOOPCALL
+IUP[y]
+EndTTInstrs
+LayerCount: 3
+Fore
+Refer: 127 168 N 1 0 0 1 -4 204 2
+Refer: 54 85 N 1 0 0 1 0 0 3
+EndChar

@@ -1,0 +1,101 @@
+StartChar: Atilde
+Encoding: 195 195 154
+Width: 600
+VWidth: 1034
+Flags: W
+TtInstrs:
+PUSHB_1
+ 82
+SSW
+SVTCA[x-axis]
+NPUSHB
+ 10
+ 0
+ 78
+ 1
+ 0
+ 41
+ 1
+ 0
+ 77
+ 40
+ 0
+CALL
+IUP[x]
+PUSHB_8
+ 86
+ 89
+ 88
+ 87
+ 4
+ 77
+ 40
+ 2
+CALL
+SVTCA[y-axis]
+PUSHB_4
+ 0
+ 3
+ 25
+ 4
+CALL
+PUSHB_4
+ 0
+ 11
+ 18
+ 4
+CALL
+PUSHB_7
+ 88
+ 1
+ 1
+ 85
+ 1
+ 29
+ 3
+MIAP[rnd]
+SLOOP
+ALIGNRP
+LOOPCALL
+NPUSHB
+ 16
+ 38
+ 40
+ 50
+ 68
+ 4
+ 1
+ 43
+ 47
+ 49
+ 69
+ 71
+ 75
+ 77
+ 7
+ 41
+ 0
+MIAP[rnd]
+SLOOP
+ALIGNRP
+LOOPCALL
+NPUSHB
+ 10
+ 0
+ 87
+ 1
+ 0
+ 58
+ 1
+ 0
+ 86
+ 57
+ 0
+CALL
+IUP[y]
+EndTTInstrs
+LayerCount: 3
+Fore
+Refer: 114 732 N 1 0 0 1 1 199 2
+Refer: 34 65 N 1 0 0 1 0 0 3
+EndChar

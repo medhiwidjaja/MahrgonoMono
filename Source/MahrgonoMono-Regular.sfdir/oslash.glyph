@@ -1,0 +1,19 @@
+StartChar: oslash
+Encoding: 248 248 207
+Width: 600
+VWidth: 1034
+Flags: W
+AnchorPoint: "Anchor 2" 294 -2 basechar 0
+AnchorPoint: "Anchor 1" 331 529 basechar 0
+AnchorPoint: "Anchor 0" 300 530 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+108 -12 m 1,0,-1
+ 72 10 l 1,1,-1
+ 490 543 l 1,2,-1
+ 528 520 l 1,3,-1
+ 108 -12 l 1,0,-1
+EndSplineSet
+Refer: 80 111 N 1 0 0 1 0 0 2
+EndChar

@@ -1,0 +1,147 @@
+StartChar: Ecircumflex
+Encoding: 202 202 161
+Width: 600
+VWidth: 1034
+Flags: W
+TtInstrs:
+PUSHB_1
+ 82
+SSW
+SVTCA[x-axis]
+PUSHB_4
+ 0
+ 6
+ 2
+ 4
+CALL
+NPUSHB
+ 13
+ 0
+ 9
+ 43
+ 44
+ 3
+ 41
+ 1
+ 42
+ 1
+ 24
+ 8
+ 10
+ 0
+CALL
+NPUSHB
+ 12
+ 0
+ 17
+ 34
+ 35
+ 3
+ 0
+ 52
+ 1
+ 24
+ 16
+ 51
+ 0
+CALL
+NPUSHB
+ 13
+ 0
+ 27
+ 1
+ 15
+ 23
+ 36
+ 3
+ 28
+ 1
+ 24
+ 26
+ 25
+ 0
+CALL
+IUP[x]
+PUSHB_6
+ 33
+ 18
+ 2
+ 16
+ 25
+ 2
+CALL
+PUSHB_8
+ 7
+ 57
+ 46
+ 45
+ 4
+ 7
+ 8
+ 2
+CALL
+SVTCA[y-axis]
+NPUSHB
+ 9
+ 0
+ 1
+ 1
+ 0
+ 0
+ 0
+ 0
+ 4
+ 0
+CALL
+NPUSHB
+ 9
+ 15
+ 16
+ 57
+ 3
+ 1
+ 8
+ 1
+ 7
+ 0
+MIAP[rnd]
+SLOOP
+ALIGNRP
+LOOPCALL
+NPUSHB
+ 10
+ 0
+ 33
+ 1
+ 0
+ 18
+ 1
+ 0
+ 34
+ 17
+ 0
+CALL
+PUSHB_8
+ 35
+ 36
+ 2
+ 1
+ 45
+ 1
+ 44
+ 3
+MIAP[rnd]
+SLOOP
+ALIGNRP
+LOOPCALL
+PUSHB_2
+ 7
+ 0
+MIAP[rnd]
+IUP[y]
+EndTTInstrs
+LayerCount: 3
+Fore
+Refer: 218 770 N 1 0 0 1 -23 199 2
+Refer: 38 69 N 1 0 0 1 0 0 3
+EndChar

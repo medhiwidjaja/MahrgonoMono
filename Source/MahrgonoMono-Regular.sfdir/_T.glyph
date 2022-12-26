@@ -1,0 +1,23 @@
+StartChar: T
+Encoding: 84 84 53
+Width: 600
+VWidth: 1034
+Flags: W
+AnchorPoint: "Anchor 0" 297 738 basechar 0
+AnchorPoint: "Anchor 2" 300 2 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+350 0 m 17,0,-1
+ 250 0 l 9,1,-1
+ 253 631 l 2,2,3
+ 253 670 253 670 216 670 c 2,4,-1
+ 44 670 l 1,5,-1
+ 55 755 l 1,6,-1
+ 556 755 l 5,7,-1
+ 545 670 l 5,8,-1
+ 382 670 l 2,9,10
+ 347 670 347 670 347 631 c 2,11,-1
+ 350 0 l 17,0,-1
+EndSplineSet
+EndChar

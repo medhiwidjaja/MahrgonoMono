@@ -1,0 +1,86 @@
+StartChar: idieresis
+Encoding: 239 239 198
+Width: 600
+VWidth: 1034
+Flags: W
+TtInstrs:
+PUSHB_1
+ 82
+SSW
+SVTCA[x-axis]
+PUSHB_4
+ 24
+ 3
+ 9
+ 4
+CALL
+PUSHB_4
+ 24
+ 21
+ 15
+ 4
+CALL
+NPUSHB
+ 10
+ 0
+ 53
+ 1
+ 0
+ 33
+ 1
+ 24
+ 24
+ 32
+ 0
+CALL
+IUP[x]
+SVTCA[y-axis]
+NPUSHB
+ 10
+ 0
+ 6
+ 1
+ 0
+ 18
+ 1
+ 0
+ 12
+ 0
+ 0
+CALL
+PUSHB_8
+ 26
+ 27
+ 2
+ 1
+ 25
+ 1
+ 24
+ 2
+MIAP[rnd]
+SLOOP
+ALIGNRP
+LOOPCALL
+NPUSHB
+ 10
+ 38
+ 48
+ 2
+ 1
+ 41
+ 45
+ 47
+ 3
+ 39
+ 0
+MIAP[rnd]
+SLOOP
+ALIGNRP
+LOOPCALL
+IUP[y]
+EndTTInstrs
+LayerCount: 3
+Fore
+Refer: 127 168 N 1 0 0 1 -9 -10 2
+Refer: 243 305 N 1 0 0 1 0 0 3
+EndChar

@@ -1,0 +1,78 @@
+StartChar: Ugrave
+Encoding: 217 217 176
+Width: 600
+VWidth: 1034
+Flags: W
+TtInstrs:
+PUSHB_1
+ 82
+SSW
+SVTCA[x-axis]
+NPUSHB
+ 10
+ 0
+ 68
+ 1
+ 0
+ 32
+ 1
+ 24
+ 11
+ 31
+ 0
+CALL
+NPUSHB
+ 10
+ 0
+ 41
+ 1
+ 0
+ 62
+ 1
+ 24
+ 40
+ 61
+ 0
+CALL
+IUP[x]
+SVTCA[y-axis]
+NPUSHB
+ 16
+ 16
+ 26
+ 46
+ 56
+ 4
+ 1
+ 19
+ 23
+ 25
+ 47
+ 49
+ 53
+ 55
+ 7
+ 17
+ 3
+MIAP[rnd]
+SLOOP
+ALIGNRP
+LOOPCALL
+PUSHB_6
+ 65
+ 1
+ 1
+ 0
+ 35
+ 0
+MIAP[rnd]
+SLOOP
+ALIGNRP
+LOOPCALL
+IUP[y]
+EndTTInstrs
+LayerCount: 3
+Fore
+Refer: 216 768 N 1 0 0 1 -31 205 2
+Refer: 54 85 N 1 0 0 1 0 0 3
+EndChar

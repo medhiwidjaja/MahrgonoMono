@@ -1,0 +1,19 @@
+StartChar: circumflex
+Encoding: 710 710 102
+Width: 600
+VWidth: 1034
+Flags: W
+AnchorPoint: "Anchor 0" 300 534 mark 0
+LayerCount: 3
+Fore
+SplineSet
+469 645 m 1,0,-1
+ 420 599 l 1,1,-1
+ 299 727 l 1,2,-1
+ 180 599 l 1,3,-1
+ 131 645 l 1,4,-1
+ 274 799 l 1,5,-1
+ 323 799 l 1,6,-1
+ 469 645 l 1,0,-1
+EndSplineSet
+EndChar

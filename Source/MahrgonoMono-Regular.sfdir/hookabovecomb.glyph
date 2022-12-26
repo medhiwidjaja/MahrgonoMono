@@ -1,0 +1,22 @@
+StartChar: hookabovecomb
+Encoding: 777 777 391
+Width: 600
+VWidth: 1034
+Flags: W
+AnchorPoint: "Anchor 0" 286 519 mark 0
+LayerCount: 3
+Fore
+SplineSet
+320 835 m 2,0,-1
+ 203 835 l 1,1,-1
+ 203 760 l 1,2,-1
+ 290 760 l 2,3,4
+ 341 760 341 760 340 736 c 0,5,6
+ 340 719 340 719 312 686 c 2,7,-1
+ 249 611 l 1,8,-1
+ 349 611 l 1,9,-1
+ 404 681 l 2,10,11
+ 428 711 428 711 428 746 c 0,12,13
+ 429 835 429 835 320 835 c 2,0,-1
+EndSplineSet
+EndChar

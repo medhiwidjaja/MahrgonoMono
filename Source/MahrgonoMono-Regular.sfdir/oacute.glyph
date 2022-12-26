@@ -1,0 +1,69 @@
+StartChar: oacute
+Encoding: 243 243 202
+Width: 600
+VWidth: 1034
+Flags: W
+TtInstrs:
+PUSHB_1
+ 82
+SSW
+SVTCA[x-axis]
+PUSHB_4
+ 24
+ 38
+ 14
+ 4
+CALL
+PUSHB_4
+ 24
+ 20
+ 28
+ 4
+CALL
+IUP[x]
+PUSHB_6
+ 23
+ 33
+ 2
+ 38
+ 28
+ 2
+CALL
+SVTCA[y-axis]
+PUSHB_6
+ 23
+ 1
+ 1
+ 0
+ 11
+ 2
+MIAP[rnd]
+SLOOP
+ALIGNRP
+LOOPCALL
+PUSHB_6
+ 33
+ 1
+ 1
+ 0
+ 17
+ 0
+MIAP[rnd]
+SLOOP
+ALIGNRP
+LOOPCALL
+PUSHB_6
+ 38
+ 28
+ 2
+ 17
+ 11
+ 2
+CALL
+IUP[y]
+EndTTInstrs
+LayerCount: 3
+Fore
+Refer: 217 769 N 1 0 0 1 28 -1 2
+Refer: 80 111 N 1 0 0 1 0 0 3
+EndChar

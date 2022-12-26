@@ -1,0 +1,105 @@
+StartChar: ydieresis
+Encoding: 255 255 214
+Width: 600
+VWidth: 1034
+Flags: W
+TtInstrs:
+PUSHB_1
+ 82
+SSW
+SVTCA[x-axis]
+PUSHB_4
+ 24
+ 3
+ 9
+ 4
+CALL
+PUSHB_4
+ 24
+ 21
+ 15
+ 4
+CALL
+NPUSHB
+ 10
+ 0
+ 61
+ 1
+ 0
+ 94
+ 1
+ 0
+ 60
+ 93
+ 0
+CALL
+IUP[x]
+SVTCA[y-axis]
+NPUSHB
+ 10
+ 0
+ 6
+ 1
+ 0
+ 18
+ 1
+ 0
+ 12
+ 0
+ 0
+CALL
+PUSHB_7
+ 76
+ 1
+ 1
+ 25
+ 1
+ 24
+ 0
+MIAP[rnd]
+SLOOP
+ALIGNRP
+LOOPCALL
+NPUSHB
+ 10
+ 0
+ 0
+ 0
+ 34
+ 36
+ 2
+ 0
+ 48
+ 32
+ 0
+CALL
+NPUSHB
+ 17
+ 60
+ 70
+ 82
+ 84
+ 94
+ 5
+ 1
+ 63
+ 67
+ 69
+ 85
+ 87
+ 91
+ 93
+ 7
+ 61
+ 2
+MIAP[rnd]
+SLOOP
+ALIGNRP
+LOOPCALL
+IUP[y]
+EndTTInstrs
+LayerCount: 3
+Fore
+Refer: 127 168 N 1 0 0 1 4 0 2
+Refer: 90 121 N 1 0 0 1 0 0 3
+EndChar

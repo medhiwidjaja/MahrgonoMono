@@ -1,0 +1,333 @@
+SplineFontDB: 3.2
+FontName: MahrgonoMono-Regular
+FullName: Mahrgono Mono Regular
+FamilyName: Mahrgono Mono 
+Weight: Regular
+Copyright: Copyright (c) Medhi Widjaja
+Version: 1.01
+ItalicAngle: 0
+UnderlinePosition: -180
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+sfntRevision: 0x00010000
+LayerCount: 3
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+Layer: 2 0 "Back 2" 1
+XUID: [1021 899 98094438 14097491]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 3
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: -2082844800
+ModificationTime: 1671181899
+PfmFamily: 49
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 2 0 0 9 0 0 0 0 0 0
+OS2TypoAscent: 800
+OS2TypoAOffset: 0
+OS2TypoDescent: -200
+OS2TypoDOffset: 0
+OS2TypoLinegap: 200
+OS2WinAscent: 960
+OS2WinAOffset: 0
+OS2WinDescent: 240
+OS2WinDOffset: 0
+HheadAscent: 960
+HheadAOffset: 0
+HheadDescent: -240
+HheadDOffset: 0
+OS2SubXSize: 500
+OS2SubYSize: 500
+OS2SubXOff: 0
+OS2SubYOff: -500
+OS2SupXSize: 500
+OS2SupYSize: 500
+OS2SupXOff: 0
+OS2SupYOff: 250
+OS2StrikeYSize: 50
+OS2StrikeYPos: 250
+OS2CapHeight: 730
+OS2XHeight: 550
+OS2Vendor: '    '
+OS2UnicodeRanges: 00000000.00000000.00000000.00000000
+Lookup: 260 0 0 "Mark positioning in Latin" { "Mark positioning in Latin-1 subtable"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+TtTable: prep
+PUSHW_2
+ 511
+ 512
+SCANTYPE
+SCANCTRL
+PUSHB_1
+ 58
+SCVTCI
+PUSHB_1
+ 30
+SSWCI
+PUSHB_1
+ 41
+SSW
+PUSHB_1
+ 32
+SMD
+SVTCA[y-axis]
+EndTTInstrs
+TtTable: fpgm
+PUSHB_8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+ 0
+FDEF
+DUP
+GC[orig]
+DUP
+ROUND[Grey]
+SUB
+ABS
+PUSHB_1
+ 3
+CINDEX
+GC[orig]
+DUP
+ROUND[Grey]
+SUB
+ABS
+GT
+IF
+PUSHB_1
+ 5
+CALL
+ELSE
+PUSHB_1
+ 6
+CALL
+EIF
+ENDF
+FDEF
+MDRP[min,rnd,grey]
+ENDF
+FDEF
+SRP1
+SRP2
+SLOOP
+IP
+ENDF
+FDEF
+MPPEM
+PUSHB_1
+ 65
+LT
+IF
+ALIGNRP
+ELSE
+POP
+EIF
+ENDF
+FDEF
+PUSHB_5
+ 0
+ 0
+ 0
+ 0
+ 7
+MINDEX
+PUSHB_1
+ 7
+MINDEX
+PUSHB_1
+ 7
+MINDEX
+PUSHB_1
+ 0
+CALL
+ENDF
+FDEF
+SWAP
+DUP
+PUSHB_1
+ 0
+SWAP
+WS
+MDAP[rnd]
+SWAP
+DUP
+PUSHB_1
+ 0
+EQ
+IF
+POP
+MDRP[rp0,min,rnd,grey]
+ELSE
+MIRP[rp0,min,rnd,grey]
+EIF
+SLOOP
+ALIGNRP
+PUSHB_1
+ 3
+LOOPCALL
+PUSHB_1
+ 0
+RS
+MDAP[no-rnd]
+SLOOP
+ALIGNRP
+PUSHB_1
+ 3
+LOOPCALL
+ENDF
+FDEF
+MDAP[rnd]
+PUSHB_1
+ 0
+SWAP
+WS
+PUSHB_1
+ 1
+SWAP
+WS
+SLOOP
+ALIGNRP
+PUSHB_1
+ 3
+LOOPCALL
+PUSHB_1
+ 1
+RS
+DUP
+PUSHB_1
+ 0
+EQ
+IF
+POP
+PUSHB_1
+ 0
+RS
+MDRP[rp0,min,rnd,grey]
+ELSE
+PUSHB_1
+ 0
+RS
+SWAP
+MIRP[rp0,min,rnd,grey]
+EIF
+SLOOP
+ALIGNRP
+PUSHB_1
+ 3
+LOOPCALL
+ENDF
+FDEF
+PUSHB_1
+ 0
+RS
+MIRP[min,rnd,grey]
+ENDF
+SVTCA[y-axis]
+SVTCA[y-axis]
+EndTTInstrs
+ShortTable: cvt  40
+  0
+  625
+  465
+  690
+  745
+  -1
+  -1
+  -1
+  -1
+  -1
+  -1
+  -1
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  82
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  0
+  246
+  514
+  662
+  730
+EndShort
+ShortTable: maxp 16
+  1
+  0
+  215
+  106
+  7
+  106
+  7
+  3
+  3
+  4
+  8
+  0
+  256
+  185
+  1
+  1
+EndShort
+LangName: 1033 "" "" "Roman" "" "" "Version 1.00" "" "Created by Type-Designer 3.0"
+GaspTable: 1 65535 15 1
+Encoding: UnicodeBmp
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -72
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 312 13 5
+BeginPrivate: 0
+EndPrivate
+Grid
+-1000 564.099975586 m 0
+ 2000 564.099975586 l 1024
+-1000 592.099975586 m 0
+ 2000 592.099975586 l 1024
+-1034.48242188 684.827148438 m 0
+ 2068.96582031 684.827148438 l 1024
+  Named: "n-height"
+-1034.48242188 755.172851562 m 0
+ 2068.96582031 755.172851562 l 1024
+  Named: "Cap height"
+-1034.48242188 532.241210938 m 4
+ 2068.96582031 532.241210938 l 1024
+  Named: "x-height"
+600 1361.37890625 m 0
+ 600 -707.5859375 l 1024
+  Named: "right"
+EndSplineSet
+TeXData: 1 0 0 291504 145752 97168 487588 1048576 97168 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+AnchorClass2: "Anchor 4" "Mark positioning in Latin-1 subtable" "Anchor 3" "Mark positioning in Latin-1 subtable" "Anchor 2" "Mark positioning in Latin-1 subtable" "Anchor 1" "Mark positioning in Latin-1 subtable" "Anchor 0" "Mark positioning in Latin-1 subtable"
+EndSplineFont

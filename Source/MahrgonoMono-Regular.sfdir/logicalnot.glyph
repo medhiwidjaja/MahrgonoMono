@@ -1,0 +1,52 @@
+StartChar: logicalnot
+Encoding: 172 172 131
+Width: 600
+VWidth: 1034
+Flags: W
+TtInstrs:
+PUSHB_1
+ 82
+SSW
+SVTCA[x-axis]
+NPUSHB
+ 10
+ 0
+ 2
+ 1
+ 0
+ 5
+ 1
+ 24
+ 1
+ 0
+ 0
+CALL
+IUP[x]
+SVTCA[y-axis]
+NPUSHB
+ 10
+ 0
+ 4
+ 1
+ 0
+ 3
+ 1
+ 0
+ 5
+ 2
+ 0
+CALL
+IUP[y]
+EndTTInstrs
+LayerCount: 3
+Fore
+SplineSet
+440 188 m 5,0,-1
+ 517 188 l 5,1,-1
+ 517 438 l 5,2,-1
+ 83 438 l 5,3,-1
+ 83 360 l 5,4,-1
+ 440 360 l 5,5,-1
+ 440 188 l 5,0,-1
+EndSplineSet
+EndChar

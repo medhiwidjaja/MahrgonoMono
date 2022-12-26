@@ -1,0 +1,10 @@
+StartChar: umacron
+Encoding: 363 363 327
+Width: 600
+VWidth: 1034
+Flags: W
+LayerCount: 3
+Fore
+Refer: 227 772 N 1 0 0 1 -11 0 2
+Refer: 86 117 N 1 0 0 1 0 0 3
+EndChar

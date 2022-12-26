@@ -1,0 +1,15 @@
+StartChar: bar
+Encoding: 124 124 93
+Width: 600
+VWidth: 1034
+Flags: W
+LayerCount: 3
+Fore
+SplineSet
+253 -152 m 5,0,-1
+ 253 785 l 5,1,-1
+ 347 785 l 5,2,-1
+ 347 -152 l 5,3,-1
+ 253 -152 l 5,0,-1
+EndSplineSet
+EndChar

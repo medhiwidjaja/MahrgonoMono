@@ -1,0 +1,154 @@
+StartChar: Edieresis
+Encoding: 203 203 162
+Width: 600
+VWidth: 1034
+Flags: W
+TtInstrs:
+PUSHB_1
+ 82
+SSW
+SVTCA[x-axis]
+PUSHB_4
+ 24
+ 3
+ 9
+ 4
+CALL
+PUSHB_4
+ 24
+ 21
+ 15
+ 4
+CALL
+NPUSHB
+ 13
+ 0
+ 26
+ 60
+ 61
+ 3
+ 58
+ 1
+ 59
+ 1
+ 24
+ 25
+ 27
+ 0
+CALL
+NPUSHB
+ 12
+ 0
+ 34
+ 51
+ 52
+ 3
+ 0
+ 69
+ 1
+ 24
+ 33
+ 68
+ 0
+CALL
+NPUSHB
+ 13
+ 0
+ 44
+ 1
+ 32
+ 40
+ 53
+ 3
+ 45
+ 1
+ 24
+ 43
+ 42
+ 0
+CALL
+IUP[x]
+PUSHB_6
+ 50
+ 35
+ 2
+ 33
+ 42
+ 2
+CALL
+PUSHB_8
+ 24
+ 74
+ 63
+ 62
+ 4
+ 24
+ 25
+ 2
+CALL
+SVTCA[y-axis]
+NPUSHB
+ 10
+ 0
+ 6
+ 1
+ 0
+ 18
+ 1
+ 0
+ 12
+ 0
+ 0
+CALL
+NPUSHB
+ 9
+ 32
+ 33
+ 74
+ 3
+ 1
+ 25
+ 1
+ 24
+ 0
+MIAP[rnd]
+SLOOP
+ALIGNRP
+LOOPCALL
+NPUSHB
+ 10
+ 0
+ 50
+ 1
+ 0
+ 35
+ 1
+ 0
+ 51
+ 34
+ 0
+CALL
+PUSHB_8
+ 52
+ 53
+ 2
+ 1
+ 62
+ 1
+ 61
+ 3
+MIAP[rnd]
+SLOOP
+ALIGNRP
+LOOPCALL
+PUSHB_2
+ 24
+ 0
+MIAP[rnd]
+IUP[y]
+EndTTInstrs
+LayerCount: 3
+Fore
+Refer: 127 168 N 1 0 0 1 -23 199 2
+Refer: 38 69 N 1 0 0 1 0 0 3
+EndChar
